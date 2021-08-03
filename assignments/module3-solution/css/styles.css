@@ -1,0 +1,37 @@
+/** navbar **/
+.navbar {
+  border: none;
+}
+#header-nav {
+  background-color: #f6b319;
+  margin-bottom: 0;
+}
+#header-nav button {
+  background-color: #fff;
+}
+#navbar-toggle-menu {
+  border: none;
+}
+#nav-menu-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-menu-list a {
+  text-align: center;
+  background-color: #f6b319;
+}
+#nav-menu-list a:hover {
+  background: #e7e7e7;
+}
+/** navbar end **/
+
+/** main content **/
+#main-content {
+background-color: #77e4ee;
+}
+#content-body {
+  margin: 5px 20px 15px;
+  padding: 5px 10px 5px;
+  background-color: burlywood;
+}
+/** main content end **/
